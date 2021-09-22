@@ -1,0 +1,76 @@
+Acceptance To College By Ryan Jarl
+
+Applicant #: 1
+School = L GPA = 4.0 Math = 600 Verbal = 650 Alumnus = N
+Applying To Liberal Arts
+Accepted To Liberal Arts!
+*********************************************************
+Applicant #: 2
+School = M GPA = 3.9 Math = 610 Verbal = 520 Alumnus = N
+Applying To Music
+Accepted To Music!
+*********************************************************
+Applicant #: 3
+School = L GPA = 3.8 Math = 590 Verbal = 600 Alumnus = N
+Applying To Liberal Arts
+Rejected - SAT is too low
+*********************************************************
+Applicant #: 4
+School = L GPA = 3.0 Math = 600 Verbal = 600 Alumnus = Y
+Applying To Liberal Arts
+Accepted To Liberal Arts!
+*********************************************************
+Applicant #: 5
+School = L GPA = 3.4 Math = 600 Verbal = 600 Alumnus = N
+Applying To Liberal Arts
+Rejected - GPA is too low
+*********************************************************
+Applicant #: 6
+School = L GPA = 3.0 Math = 500 Verbal = 490 Alumnus = Y
+Applying To Liberal Arts
+Rejected - SAT is too low
+*********************************************************
+Applicant #: 7
+School = L GPA = 2.9 Math = 500 Verbal = 500 Alumnus = Y
+Applying To Liberal Arts
+Rejected - GPA is too low
+*********************************************************
+Applicant #: 8
+School = M GPA = 3.5 Math = 500 Verbal = 490 Alumnus = Y
+Applying To Music
+Rejected - SAT is too low
+*********************************************************
+Applicant #: 9
+School = M GPA = 3.9 Math = 490 Verbal = 600 Alumnus = Y
+Applying To Music
+Rejected - SAT is too low
+*********************************************************
+Applicant #: 10
+School = L GPA = 3.5 Math = 700 Verbal = 500 Alumnus = N
+Applying To Liberal Arts
+Accepted To Liberal Arts!
+*********************************************************
+Applicant #: 11
+School = L GPA = 3.1 Math = 600 Verbal = 400 Alumnus = Y
+Applying To Liberal Arts
+Accepted To Liberal Arts!
+*********************************************************
+Applicant #: 12
+School = L GPA = 3.0 Math = 490 Verbal = 510 Alumnus = Y
+Applying To Liberal Arts
+Accepted To Liberal Arts!
+*********************************************************
+Applicant #: 13
+School = L GPA = 4.0 Math = 800 Verbal = 800 Alumnus = Y
+Applying To Liberal Arts
+Rejected - School capacity is full
+*********************************************************
+Applicant #: 14
+School = M GPA = 3.2 Math = 500 Verbal = 500 Alumnus = N
+Applying To Music
+Accepted To Music!
+*********************************************************
+
+There were 14 applicants in the file
+There were 5 acceptances to Liberal Arts
+There were 2 acceptances to Music
